@@ -1,0 +1,4 @@
+imarket:
+  db:
+    host: localhost
+    pw: 123

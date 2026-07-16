@@ -1,0 +1,6 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.imarket.common.config.MyBatisConfig,\
+  com.imarket.common.config.JsonConfig,\
+  com.imarket.common.config.MvcConfig,\
+  com.imarket.common.config.MqConfig,\
+  com.imarket.common.advice.CommonExceptionAdvice
